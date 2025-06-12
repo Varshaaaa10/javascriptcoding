@@ -3,8 +3,6 @@ if (condition) {
 } else {
   // code to run if condition is false
 }
-Deepak Yadav
-19:16
 if (condition) {
   // code to run if condition is true
 } else {
